@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="396a6c84-1d00-47c4-9e5c-c751f40e1f7c" name="Changes" comment="Loops and functions added">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/2 infixFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/3 extensionFunctions.kt" afterDir="false" />
+    <list default="true" id="396a6c84-1d00-47c4-9e5c-c751f40e1f7c" name="Changes" comment="Infix ended, extension started">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/ControlFlowsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinWorks/ControlFlowsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/META-INF/KotlinWorks.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/b_functions/FunctionsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/b_functions/functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/1 functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/b_functions/2 infixFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/2 infixFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/b_functions/3 extensionFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/3 extensionFunctions.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +107,10 @@
       <workItem from="1656665854450" duration="95000" />
       <workItem from="1656666041615" duration="3582000" />
       <workItem from="1656690024679" duration="1960000" />
-      <workItem from="1656764641527" duration="750000" />
+      <workItem from="1656764641527" duration="797000" />
+      <workItem from="1656845723343" duration="1165000" />
+      <workItem from="1656854704447" duration="606000" />
+      <workItem from="1656871738311" duration="688000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1656347206361</created>
@@ -148,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656595100139</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Infix ended, extension started">
+      <created>1656773039315</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656773039315</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +177,7 @@
     <MESSAGE value="Control flows added" />
     <MESSAGE value="Control flows finished" />
     <MESSAGE value="Loops and functions added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loops and functions added" />
+    <MESSAGE value="Infix ended, extension started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Infix ended, extension started" />
   </component>
 </project>

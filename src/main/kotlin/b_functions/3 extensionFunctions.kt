@@ -13,10 +13,15 @@ fun main() {
     println(extensionTest.addHello())
 
     /** Hem infix hem extension olabilir*/
-    class InfixClass{
-        infix fun
+
+    infix fun Any.add(s: String) {
+        println("Extension infix + $s")
     }
 
+    "ok" add "Hi"
 
+    /** Extension function bir classin icinde yazilirsa sadece o classta kullanilabilir.
+     * Her yerde kullanmak istiyorsak classin disinda yazilmali.
+     */
 
 }

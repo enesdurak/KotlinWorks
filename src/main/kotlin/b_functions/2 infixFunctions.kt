@@ -15,7 +15,7 @@ fun main() {
 
     /** Infix function daha okunakli kodlar icin kullanilir.
      * true.or(false) yerine true or false
-     * 1-) Classin icinde olmali
+     * 1-) Classin icinde olmali (ya da extension olmali)
      * 2-) infix ile baslar
      * 3-) Tek parametre alir
      * 4-) Parametre default deger almaz
