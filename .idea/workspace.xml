@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="396a6c84-1d00-47c4-9e5c-c751f40e1f7c" name="Changes" comment="Infix ended, extension started">
+    <list default="true" id="396a6c84-1d00-47c4-9e5c-c751f40e1f7c" name="Changes" comment="Extension finished">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/4 HigherOrderFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/c_classes/1 Classes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/b_functions/2 infixFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/2 infixFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/b_functions/3 extensionFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/3 extensionFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/META-INF/KotlinWorks.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinWorks/META-INF/KotlinWorks.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/b_functions/_3_extensionFunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinWorks/b_functions/_3_extensionFunctionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/b_functions/1 functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/1 Functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/b_functions/2 infixFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/2 InfixFunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/b_functions/3 extensionFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/b_functions/3 ExtensionFunctions.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -41,14 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._3_extensionFunctionsKt">
-    <configuration name="ControlFlowsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowsKt" />
-      <module name="KotlinWorks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._4_HigherOrderFunctionsKt">
     <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a_basics.LoopsKt" />
       <module name="KotlinWorks" />
@@ -56,22 +55,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1_functionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_functions._1_functionsKt" />
+    <configuration name="_1_FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_functions._1_FunctionsKt" />
       <module name="KotlinWorks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2_infixFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_functions._2_infixFunctionsKt" />
+    <configuration name="_2_InfixFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_functions._2_InfixFunctionsKt" />
       <module name="KotlinWorks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3_extensionFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_functions._3_extensionFunctionsKt" />
+    <configuration name="_3_ExtensionFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_functions._3_ExtensionFunctionsKt" />
+      <module name="KotlinWorks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4_HigherOrderFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_functions._4_HigherOrderFunctionsKt" />
       <module name="KotlinWorks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._3_extensionFunctionsKt" />
-        <item itemvalue="Kotlin._2_infixFunctionsKt" />
-        <item itemvalue="Kotlin._1_functionsKt" />
+        <item itemvalue="Kotlin._4_HigherOrderFunctionsKt" />
+        <item itemvalue="Kotlin._3_ExtensionFunctionsKt" />
+        <item itemvalue="Kotlin._2_InfixFunctionsKt" />
+        <item itemvalue="Kotlin._1_FunctionsKt" />
         <item itemvalue="Kotlin.LoopsKt" />
-        <item itemvalue="Kotlin.ControlFlowsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +116,11 @@
       <workItem from="1656764641527" duration="797000" />
       <workItem from="1656845723343" duration="1165000" />
       <workItem from="1656854704447" duration="606000" />
-      <workItem from="1656871738311" duration="688000" />
+      <workItem from="1656871738311" duration="828000" />
+      <workItem from="1656916845220" duration="1111000" />
+      <workItem from="1656926010440" duration="2509000" />
+      <workItem from="1656937036325" duration="629000" />
+      <workItem from="1656947040817" duration="1104000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1656347206361</created>
@@ -154,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656773039315</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Extension finished">
+      <created>1656873459563</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656873459563</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +195,7 @@
     <MESSAGE value="Control flows finished" />
     <MESSAGE value="Loops and functions added" />
     <MESSAGE value="Infix ended, extension started" />
-    <option name="LAST_COMMIT_MESSAGE" value="Infix ended, extension started" />
+    <MESSAGE value="Extension finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extension finished" />
   </component>
 </project>
