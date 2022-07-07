@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="396a6c84-1d00-47c4-9e5c-c751f40e1f7c" name="Changes" comment="Classes added">
+    <list default="true" id="396a6c84-1d00-47c4-9e5c-c751f40e1f7c" name="Changes" comment="Classes improved">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/c_classes/2 Inheritance.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/META-INF/KotlinWorks.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/b_functions/_4_HigherOrderFunctionsKt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/b_functions/_4_HigherOrderFunctionsKt$main$anonymousHigher$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/b_functions/_4_HigherOrderFunctionsKt$main$anonymousHigher2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/b_functions/_4_HigherOrderFunctionsKt$main$higherOrder$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinWorks/b_functions/_4_HigherOrderFunctionsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/c_classes/1 Classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/c_classes/1 Classes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._1_ClassesKt">
+  <component name="RunManager" selected="Kotlin._2_InheritanceKt">
     <configuration name="_1_ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="c_classes._1_ClassesKt" />
       <module name="KotlinWorks" />
@@ -55,15 +49,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1_FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_functions._1_FunctionsKt" />
+    <configuration name="_2_InfixFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_functions._2_InfixFunctionsKt" />
       <module name="KotlinWorks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2_InfixFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b_functions._2_InfixFunctionsKt" />
+    <configuration name="_2_InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c_classes._2_InheritanceKt" />
       <module name="KotlinWorks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._2_InheritanceKt" />
         <item itemvalue="Kotlin._1_ClassesKt" />
         <item itemvalue="Kotlin._4_HigherOrderFunctionsKt" />
         <item itemvalue="Kotlin._3_ExtensionFunctionsKt" />
         <item itemvalue="Kotlin._2_InfixFunctionsKt" />
-        <item itemvalue="Kotlin._1_FunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +116,8 @@
       <workItem from="1656937036325" duration="629000" />
       <workItem from="1656947040817" duration="1201000" />
       <workItem from="1657025142232" duration="1882000" />
-      <workItem from="1657105196189" duration="1221000" />
+      <workItem from="1657105196189" duration="1307000" />
+      <workItem from="1657188884473" duration="1326000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1656347206361</created>
@@ -180,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656949033094</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Classes improved">
+      <created>1657107865252</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657107865252</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +208,7 @@
     <MESSAGE value="Infix ended, extension started" />
     <MESSAGE value="Extension finished" />
     <MESSAGE value="Classes added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes added" />
+    <MESSAGE value="Classes improved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes improved" />
   </component>
 </project>
