@@ -23,3 +23,10 @@ fun main() {
     blueCar.printBrandName()
 
 }
+
+//    abstract class BestCar: Car() {
+//        fun testFun(){
+//            model
+//            enginePower
+//        }
+//    }

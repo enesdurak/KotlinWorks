@@ -23,5 +23,4 @@ fun main() {
     /** Extension function bir classin icinde yazilirsa sadece o classta kullanilabilir.
      * Her yerde kullanmak istiyorsak classin disinda yazilmali.
      */
-
 }

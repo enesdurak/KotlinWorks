@@ -33,8 +33,8 @@ fun main() {
     val infixClass = InfixClass()
     println(infixClass addInt 5)
 
-}
-
 //fun infixTest(){
 //    this addInt 5
 //}
+}
+
